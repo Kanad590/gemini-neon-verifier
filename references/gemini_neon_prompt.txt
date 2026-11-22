@@ -1,0 +1,21 @@
+# 🛡️ Gemini 4 Neon Forensic Verification & Audit Request
+
+## 📋 Context & Source File
+- **Source File:** {file_name}
+- **Task Objective:** {user_instruction}
+
+---
+
+## 🔍 Mandatory 4-Lens Diagnostic Audit Framework
+Please perform a rigorous, anti-sycophantic, zero-compromise analysis through the following 4 lenses:
+1. **Lens 1: Structural Traps & Blindspots:** Identify hidden pitfalls, calculation speed-traps, or deceptive assumptions.
+2. **Lens 2: Time-Decay & Tripwires:** Detail critical milestones, expiration deadlines, transit windows, or cutoff thresholds.
+3. **Lens 3: Contrarian Ground-Truth:** Challenge conventional crowd beliefs with hard logical, mathematical, or gazette facts.
+4. **Lens 4: Actionable Protocol:** Provide a clear, step-by-step checklist of immediate do's and don'ts.
+
+---
+
+## 📄 Raw Source Data (Verbatim Full Text)
+<source_payload filename="{file_name}">
+{content}
+</source_payload>
